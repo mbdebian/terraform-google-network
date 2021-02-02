@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://www.github.com/terraform-google-modules/terraform-google-network/compare/v3.0.1...v3.1.0) (2021-02-02)
+
+
+### Features
+
+* Add support for enabling firewall logging on each rule ([#236](https://www.github.com/terraform-google-modules/terraform-google-network/issues/236)) ([2f44790](https://www.github.com/terraform-google-modules/terraform-google-network/commit/2f44790af2936887356dc7ed6b5f1cb343a7e578))
+
 ### [3.0.1](https://www.github.com/terraform-google-modules/terraform-google-network/compare/v3.0.0...v3.0.1) (2021-01-15)
 
 
